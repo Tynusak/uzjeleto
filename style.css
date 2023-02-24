@@ -1,0 +1,23 @@
+body {
+  background-color: #f2f3ae;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fa-sun {
+  color: #ff8552;
+}
+
+h1,
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #f00699;
+}
